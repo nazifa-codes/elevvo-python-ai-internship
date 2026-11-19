@@ -1,0 +1,10 @@
+2026-11-19 18:27:30,545 | ERROR | Target directory does not exist: C:\Users\Lenovo\Desktop\Elevvo_Demo_Files
+2026-11-19 18:29:54,390 | INFO | preview | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\image.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\image.txt
+2026-11-19 18:29:54,390 | INFO | preview | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\notes.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\notes.txt
+2026-11-19 18:29:54,390 | INFO | preview | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\report.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\report.txt
+2026-11-19 18:34:43,620 | INFO | preview | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\image.png | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\png\image.png
+2026-11-19 18:34:43,620 | INFO | preview | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\notes.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\notes.txt
+2026-11-19 18:34:43,621 | INFO | preview | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\report.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\report.txt
+2026-11-19 18:35:28,273 | INFO | moved | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\image.png | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\png\image.png
+2026-11-19 18:35:28,274 | INFO | moved | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\notes.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\notes.txt
+2026-11-19 18:35:28,274 | INFO | moved | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\report.txt | C:\Users\Lenovo\OneDrive\Desktop\Elevvo_Demo_Files\txt\report.txt
